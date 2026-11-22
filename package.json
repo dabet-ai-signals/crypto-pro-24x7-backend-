@@ -1,0 +1,12 @@
+{
+  "name": "crypto-pro-24x7-backend",
+  "version": "1.0.0",
+  "description": "24/7 background signal scanner, auto-lock, and TP/SL tracker for CRYPTO PRO TERMINAL",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
